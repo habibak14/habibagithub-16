@@ -1,0 +1,25 @@
+img{
+	max-width:100%;
+	display:block;
+	height: auto;
+}
+.section-1{
+	background:#fdcb6e; 
+	padding: 100px 0;
+
+}
+.section-2{
+	background:#fff;
+	padding: 100px 0;
+
+}
+
+
+@media ( max-width: 767px){
+	.plate{
+		margin-bottom: 15px; 
+	}
+
+}
+    
+	
